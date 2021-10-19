@@ -1,0 +1,12 @@
+.app {
+  background-color: #f1f2f5;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.app__body {
+  display: flex;
+}
